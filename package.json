@@ -1,0 +1,12 @@
+{
+  "name": "koa-example",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "NODE_ENV=development node --harmony app.js"
+  },
+  "dependencies": {
+    "koa": "^0.5.1",
+    "koa-route": "^1.1.0"
+  }
+}
